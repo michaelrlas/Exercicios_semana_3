@@ -1,9 +1,9 @@
 var divTexto;
-const texto1 = 'Texto 1;',
-  texto2 = ' Texto 2;',
-  texto3 = ' Texto 3;',
-  texto4 = ' Texto 4;',
-  texto5 = ' Texto5 ;';
+const texto1 = 'Texto 1',
+  texto2 = ' Texto 2',
+  texto3 = ' Texto 3',
+  texto4 = ' Texto 4',
+  texto5 = ' Texto5';
 
 minhaDiv = document.getElementById('div-texto');
 minhaDiv.innerHTML += texto1;
